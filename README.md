@@ -45,7 +45,7 @@ Download the following files into a folder:
 * index.html
 * styles.css
 
-Open the HTML file by right clicking it and opening it in a web broswer of the user's choice. To see how the HTML and CSS files affect the layout of the website, you can right click the page, select "inspect element" and see how the HTML and CSS file affect the decoration of the website.
+Open the HTML file by right clicking it and opening it in a web browser of the user's choice. To see how the HTML and CSS files affect the layout of the website, you can right click the page, select "inspect element" and see how the HTML and CSS file affect the decoration of the website.
 
 ## Credits and License
 
