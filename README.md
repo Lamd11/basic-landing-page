@@ -49,5 +49,5 @@ Open the HTML file by right clicking it and opening it in a web broswer of the u
 
 ## Credits and License
 
-Author: Daniel Lam
+Author: [Daniel Lam](https://github.com/Lamd11)
 Project is open source. Feel free to use it.
