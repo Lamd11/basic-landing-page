@@ -5,8 +5,8 @@ Sample product landing page made with HTML and CSS. The goal is to demonstrate k
 
 ### Sample image:
 
-![Image 1](/images/image1.jpg "Image 1")
-![Image 2](/images/image2.jpg "Image 2")
+![Image 1](/images/image1.JPG?raw=true "Image 1")
+![Image 2](/images/image2.JPG?raw=true "Image 2")
 
 ## Description
 
